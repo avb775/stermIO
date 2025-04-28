@@ -1,8 +1,3 @@
-Of course!  
-Here’s a clean and full first version of your `spec/protocol-spec.md` for **stermIO**:
-
----
-
 # 📡 stermIO Protocol Specification (v0.1)
 
 ---
